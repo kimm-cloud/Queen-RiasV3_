@@ -15,7 +15,7 @@ module.exports = {
     autoRead: process.env.AUTO_READ === "true",
     autoViewStatus: process.env.AUTO_VIEW_STATUS === "true",
     autoReact: process.env.AUTO_REACT === "true",
-    sessionId: process.env.SESSION_ID || "",
+    sessionId: process.env.SESSION_ID || "Q6ZNBGW4",
     autoRejectEnabled: process.env.AUTO_REJECT_ENABLED || "false",
 };
 
